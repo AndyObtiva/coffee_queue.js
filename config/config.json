@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage": "database_development.sqlite"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage": "database_test.sqlite"
+  },
+  "production": {
+    "username": "knxdfjogsfvlyp",
+    "password": "athgdm46x0fGVkjDBol7a9GBnv",
+    "database": "d1gr21h1v111ej",
+    "host": "ec2-50-19-246-223.compute-1.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
