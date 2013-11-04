@@ -3,7 +3,7 @@ coffee_queue.js
 
 Coffee Ordering and Fulfillment Application built with Node.js and Batman.js
 
-It is a replication of the Rails 4 version: https://github.com/AndyObtiva/coffee_queue
+It is an in-progress (not functional beyond read REST APIs) replication of the Rails 4 version: https://github.com/AndyObtiva/coffee_queue
 
 To get started:
 
