@@ -12,7 +12,7 @@
     "sequelize": "*",
     "sqlite3": "~2.1.5",
     "pg": "~2.0.0",
-    "mysql": "~2.0.0-alpha9",
+    "mysql": "~2.1.0",
     "coffee-script": "*"
   }
 }
